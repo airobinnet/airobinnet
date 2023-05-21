@@ -22,7 +22,7 @@ I'm a passionate software developer with over 20 years of experience in coding, 
 
 - [LinkedIn](https://www.linkedin.com/in/antony-alloin-7a7354272/)
 - [Twitter](https://twitter.com/AIRobin_net)
-- Email: your-email@example.com
+- Email: alloin@airobin.net
 
 ## ⚡ Fun fact:
 
