@@ -5,7 +5,7 @@ I'm a passionate software developer with over 20 years of experience in coding, 
 ## 🌱 Some of my recent work:
 
 - FancyScreenshots: An open-source tool for creating visually appealing screenshots ([GitHub Repository](https://github.com/airobinnet/FancyScreenshots))
-- Fancy Gif Creator:  ([GitHub Repository](https://github.com/airobinnet/Fancy-Gif-Counter))  ([Live Page](https://github.com/airobinnet/Fancy-Gif-Counter))
+- Fancy Gif Creator: Create fancy gifs for your stats ([GitHub Repository](https://github.com/airobinnet/Fancy-Gif-Counter))  ([Live Page](https://github.com/airobinnet/Fancy-Gif-Counter))
 - AI-Powered Senior Care Assistant: A project aimed at improving the lives of seniors through AI technology
 - AImigo: An AI Game Assistant  ([AImigo.co](https://aimigo.co/))
 - AIRobin Solutions: Developing cutting-edge AI-powered tools and applications
