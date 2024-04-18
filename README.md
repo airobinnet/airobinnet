@@ -1,15 +1,6 @@
 # Hi there, I'm Antony! 👋
 
-I'm a passionate software developer with over 20 years of experience in coding, web development, and artificial intelligence. I love creating innovative solutions and exploring new technologies.
-
-## 🌱 Some of my recent work:
-
-- FancyScreenshots: An open-source tool for creating visually appealing screenshots ([GitHub Repository](https://github.com/airobinnet/FancyScreenshots))
-- Fancy Gif Creator: Create fancy gifs for your stats ([GitHub Repository](https://github.com/airobinnet/Fancy-Gif-Counter))  ([Live Page](https://github.com/airobinnet/Fancy-Gif-Counter))
-- AI-Powered Senior Care Assistant: A project aimed at improving the lives of seniors through AI technology
-- AImigo: An AI Game Assistant  ([AImigo.co](https://aimigo.co/))
-- VisionMorpher: Easily upload images, draw or erase parts, and generate stunning visuals with just a few clicks. ([Live Page](https://visionmorpher.com/))
-- AIRobin Solutions: Developing cutting-edge AI-powered tools and applications
+I've been a passionate software developer for over 20 years with experience in coding, web development, and artificial intelligence. I love creating innovative solutions and exploring new technologies.
 
 ## 📚 My skills and expertise:
 
@@ -17,7 +8,8 @@ I'm a passionate software developer with over 20 years of experience in coding, 
 - AI and Machine Learning: GANs, Chatbots, and Datasets
 - Web development: Full websites, control panels for apps and games
 - Apps: (Android) Apps, Multiplatform apps (windows, linux, mac)
-- Automation: Inventory sorting and managing systems for games like Space Engineers
+- Games: From monochrome microcontroller games to (M)MO's.
+- Automation: Advanced Inventory sorting and managing systems, Beginner in Robotics
 
 ## 📫 How to reach me:
 
