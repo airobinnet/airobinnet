@@ -1,15 +1,9 @@
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/airobinnet/airobinnet/assets/126980386/2a3d74e8-0a57-4ee7-a297-5b8d251f5bbd');]{x0000}$}
+```
 # Hi there, I'm Antony! 👋
 
-I've been a passionate software developer for over 20 years with experience in coding, web development, and artificial intelligence. I love creating innovative solutions and exploring new technologies.
-
-## 📚 My skills and expertise:
-
-- Programming languages: Python, JavaScript, HTML, CSS, and more
-- AI and Machine Learning: GANs, Chatbots, and Datasets
-- Web development: Full websites, control panels for apps and games
-- Apps: (Android) Apps, Multiplatform apps (windows, linux, mac)
-- Games: From monochrome microcontroller games to (M)MO's.
-- Automation: Advanced Inventory sorting and managing systems, Beginner in Robotics
+I'm a passionate software developer. I love creating innovative solutions and exploring new technologies.
 
 ## 📫 How to reach me:
 
