@@ -4,18 +4,12 @@
 
 `SYS_LOG: NEURAL_LINK_ESTABLISHED // CONTAINMENT_BREACH_IMMINENT`
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Dagger.png" alt="Dagger" width="35" height="35" /> 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" alt="Crystal Ball" width="35" height="35" /> 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Radioactive.png" alt="Radioactive" width="35" height="35" />
-
 <br/><br/>
 </div>
 
 <table align="center" width="100%" style="border: 1px solid #FF0033; background-color: #000000;">
   <tr>
-    <td width="60%">
+    <td width="50%" style="padding: 15px;">
       <h3 align="center" style="color: #FF0033;">🩸 ID_MODULE </h3>
       <p align="left">
         <strong><span style="color: #FF0033;">ID:</span></strong> Antony Isaac Robin (AI)<br/>
@@ -29,8 +23,14 @@
         <a href="mailto:alloin@airobin.net"><img src="https://img.shields.io/badge/COMMS-%23000000.svg?style=for-the-badge&logo=minutemailer&logoColor=FF0033" /></a>
       </div>
     </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=airobinnet&show_icons=true&border_radius=0&border_color=ff0033&bg_color=000000&title_color=ff0033&icon_color=ff0033&text_color=cccccc" alt="Stats" />
+    <td width="50%" style="padding: 15px;" align="center">
+      <h3 align="center" style="color: #FF0033;">⚡ SYS_STATS</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/ARCHITECT-ACTIVE-FF0033?style=for-the-badge" /><br/>
+        <img src="https://img.shields.io/badge/CONTAINMENT-BREACHED-FF0033?style=for-the-badge" /><br/>
+        <img src="https://img.shields.io/badge/CREATIVITY-OVERLOAD-FF0033?style=for-the-badge" /><br/><br/>
+        <em>"Reality is a canvas, code is the brush."</em>
+      </p>
     </td>
   </tr>
 </table>
@@ -43,19 +43,19 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%" style="border: 1px solid #FF0033; background-color: #000000;">
+    <td align="center" width="50%" style="border: 1px solid #FF0033; background-color: #000000; padding: 15px;">
       <h3 align="center" style="color: #FF0033;">🏰 SPIREBREAKER SAGA</h3>
-      <p align="center"><em>An instanced -> open-world -> tower MMORPG.</em></p>
+      <p align="center"><em style="color: #cccccc;">An instanced -> open-world -> tower MMORPG.</em></p>
       <a href="https://store.steampowered.com/app/1280220/Spirebreaker_Saga/">
-        <img src="https://cdn.akamai.steamstatic.com/steam/apps/1280220/header.jpg" width="90%" alt="Spirebreaker Saga" style="border: 2px solid #FF0033;"/>
+        <img src="assets/spirebreaker_logo_purple_bg.png" width="90%" alt="Spirebreaker Saga" style="border: 2px solid #FF0033;"/>
       </a>
       <br/><br/>
     </td>
-    <td align="center" width="50%" style="border: 1px solid #FF0033; background-color: #000000;">
+    <td align="center" width="50%" style="border: 1px solid #FF0033; background-color: #000000; padding: 15px;">
       <h3 align="center" style="color: #FF0033;">🧠 AI PEOPLE</h3>
-      <p align="center"><em>Sandbox game where NPCs interact, think, and learn.</em></p>
+      <p align="center"><em style="color: #cccccc;">Sandbox game where NPCs interact, think, and learn.</em></p>
       <a href="https://www.goodai.com/ai-people-alpha-officially-released/">
-        <img src="https://img.youtube.com/vi/V8M14tJ3D9M/hqdefault.jpg" width="90%" alt="AI People" style="border: 2px solid #FF0033;"/>
+        <img src="assets/AIPeople_Banner_02_ALPHA-1024x576.webp" width="90%" alt="AI People" style="border: 2px solid #FF0033;"/>
       </a>
       <br/><br/>
     </td>
@@ -68,29 +68,47 @@
   <br/>
 </div>
 
-<table align="center" width="100%">
+<table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/airobinnet/Auto-GPT">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=airobinnet&repo=Auto-GPT&border_radius=0&border_color=ff0033&bg_color=000000&title_color=ff0033&icon_color=ff0033&text_color=cccccc" />
-      </a>
+    <td align="left" width="50%" style="border: 1px solid #FF0033; background-color: #000000; padding: 15px;">
+      <h3 style="margin-top: 0;"><a href="https://github.com/airobinnet/NexusSprite" style="color: #FF0033; text-decoration: none;">✨ NexusSprite</a></h3>
+      <p style="color: #cccccc; font-size: 14px;">A nice pixel image generator based on AI.</p>
+      <img src="https://img.shields.io/github/stars/airobinnet/NexusSprite?style=flat-square&color=FF0033&logo=github" />
+      <img src="https://img.shields.io/github/forks/airobinnet/NexusSprite?style=flat-square&color=FF0033&logo=github" />
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/airobinnet/AI-Pipeline-Builder">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=airobinnet&repo=AI-Pipeline-Builder&border_radius=0&border_color=ff0033&bg_color=000000&title_color=ff0033&icon_color=ff0033&text_color=cccccc" />
-      </a>
+    <td align="left" width="50%" style="border: 1px solid #FF0033; background-color: #000000; padding: 15px;">
+      <h3 style="margin-top: 0;"><a href="https://github.com/GoodAI/charlie-mnemonic" style="color: #FF0033; text-decoration: none;">🧠 Charlie-Mnemonic</a></h3>
+      <p style="color: #cccccc; font-size: 14px;">Long-Term Memory architecture for contextual awareness.</p>
+      <img src="https://img.shields.io/github/stars/GoodAI/charlie-mnemonic?style=flat-square&color=FF0033&logo=github" />
+      <img src="https://img.shields.io/github/forks/GoodAI/charlie-mnemonic?style=flat-square&color=FF0033&logo=github" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/airobinnet/ai-toolkit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=airobinnet&repo=ai-toolkit&border_radius=0&border_color=ff0033&bg_color=000000&title_color=ff0033&icon_color=ff0033&text_color=cccccc" />
-      </a>
+    <td align="left" width="50%" style="border: 1px solid #FF0033; background-color: #000000; padding: 15px;">
+      <h3 style="margin-top: 0;"><a href="https://github.com/airobinnet/Intersect-Engine" style="color: #FF0033; text-decoration: none;">⚔️ Intersect-Engine</a></h3>
+      <p style="color: #cccccc; font-size: 14px;">Contributions to the modern 2D MMORPG Engine.</p>
+      <img src="https://img.shields.io/github/stars/airobinnet/Intersect-Engine?style=flat-square&color=FF0033&logo=github" />
+      <img src="https://img.shields.io/github/forks/airobinnet/Intersect-Engine?style=flat-square&color=FF0033&logo=github" />
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/airobinnet/ChatGPT-With-Memory">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=airobinnet&repo=ChatGPT-With-Memory&border_radius=0&border_color=ff0033&bg_color=000000&title_color=ff0033&icon_color=ff0033&text_color=cccccc" />
-      </a>
+    <td align="left" width="50%" style="border: 1px solid #FF0033; background-color: #000000; padding: 15px;">
+      <h3 style="margin-top: 0;"><a href="https://github.com/airobinnet/BBaVAC" style="color: #FF0033; text-decoration: none;">🪙 BBaVAC</a></h3>
+      <p style="color: #cccccc; font-size: 14px;">Bitcoin Balance and Vanity Address Checker.</p>
+      <img src="https://img.shields.io/github/stars/airobinnet/BBaVAC?style=flat-square&color=FF0033&logo=github" />
+      <img src="https://img.shields.io/github/forks/airobinnet/BBaVAC?style=flat-square&color=FF0033&logo=github" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="50%" style="border: 1px solid #FF0033; background-color: #000000; padding: 15px;">
+      <h3 style="margin-top: 0;"><a href="https://github.com/airobinnet/Charlie-Recall" style="color: #FF0033; text-decoration: none;">📸 Charlie-Recall</a></h3>
+      <p style="color: #cccccc; font-size: 14px;">A simple open-source recall clone.</p>
+      <img src="https://img.shields.io/github/stars/airobinnet/Charlie-Recall?style=flat-square&color=FF0033&logo=github" />
+      <img src="https://img.shields.io/github/forks/airobinnet/Charlie-Recall?style=flat-square&color=FF0033&logo=github" />
+    </td>
+    <td align="left" width="50%" style="border: 1px solid #FF0033; background-color: #000000; padding: 15px;">
+      <h3 style="margin-top: 0;"><a href="https://github.com/airobinnet/AIRobins-Stable-Diffusion-AutoZoom" style="color: #FF0033; text-decoration: none;">🔍 AutoZoom</a></h3>
+      <p style="color: #cccccc; font-size: 14px;">Create zoom clips with Stable Diffusion.</p>
+      <img src="https://img.shields.io/github/stars/airobinnet/AIRobins-Stable-Diffusion-AutoZoom?style=flat-square&color=FF0033&logo=github" />
+      <img src="https://img.shields.io/github/forks/airobinnet/AIRobins-Stable-Diffusion-AutoZoom?style=flat-square&color=FF0033&logo=github" />
     </td>
   </tr>
 </table>
